@@ -13,8 +13,7 @@ from telegram.ext import *
 # Muslim = muslimhadith  # dictionary
 # Nasai = nasaihadith  # dictionary
 # Tirmidhi = tirmidhihadith  # dictionary
-token = "5758442510:AAF7VsxBY6I_QOrdpT4IlvlsHla09OydL7U"  # token of hadithPro bot
-updater = Updater(token, use_context=True)
+# token of hadithPro bot
 # global main_api_link
 
 
